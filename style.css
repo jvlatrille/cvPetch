@@ -1,8 +1,12 @@
 body{
     font-size: large;
     background-color: lightblue;
+<<<<<<< HEAD
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 40px;
+=======
+    font-family: ARIAL, Geneva, Tahoma, sans-serif;
+>>>>>>> 0abf2616f4d51f39ba26a53442aca44f28c44dfd
 }
 
 
